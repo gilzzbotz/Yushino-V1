@@ -68,7 +68,7 @@ global.yt = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.dana = '08124105619&'
+global.dana = '081241056195'
 global.gopay = '085730794089'
 global.pulsa = '081357580864'
 global.saweria =  'CET MIMIN'
