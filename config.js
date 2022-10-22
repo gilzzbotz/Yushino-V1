@@ -37,25 +37,25 @@ let fs = require('fs')
 */
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.owner = ['6281361281833']
-global.mods = ['6281361281833']
+global.owner = ['6285730794089']
+global.mods = ['6285730794089']
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.author = '𝑴𝒀 𝐴𝐿𝐷𝐼'
-global.namebot = '​ 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.author = 'Gilzz Axe'
+global.namebot = '​ Gilzz MD'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Gilzz Aza'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.wm = 'GiLz 𝑴𝒅 '
 global.watermark = wm
-global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
-global.wm3 = '𝑌𝑢𝑠𝒉𝑖𝑛𝑜 𝑀𝑑 '
+global.wm2 = 'GiLz 𝑴𝒅 '
+global.wm3 = 'GiLz 𝑀𝑑 '
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ownername = '⟆𝐀⃟𝐿𝐷𝐼'   
-global.ownernomor = '+62 813 6128 1833'
+global.ownername = 'Gilzz Axe'  
+global.ownernomor = '+6285730794089'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
@@ -63,15 +63,15 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ig = 'https://instagram/hyuura_official'
+global.ig = 'https://instagram/rdtyzagil'
 global.yt = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.dana = '0813 6128 1833'
-global.gopay = '0813 6128 1833'
-global.pulsa = '0813 6128 1833'
-global.saweria =  'https://saweria.co/hyuura'
+global.dana = '08124105619&'
+global.gopay = '085730794089'
+global.pulsa = '081357580864'
+global.saweria =  'CET MIMIN'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
